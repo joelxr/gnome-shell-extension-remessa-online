@@ -1,0 +1,8 @@
+{
+  "name": "RemessaOnlineSimulator",
+  "description": "Simulate a Remessa Online Operation",
+  "uuid": "remessaonlinesimulator@joelxr.gmail.com",
+  "shell-version": [
+    "3.36"
+  ]
+}

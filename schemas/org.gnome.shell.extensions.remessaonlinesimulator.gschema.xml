@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.remessaonlinesimulator" path="/org/gnome/shell/extensions/remessaonlinesimulator/">
+    <key name="show-refresh-button" type="b">
+      <default>true</default>
+    </key>
+    <key name="auto-refresh" type="b">
+      <default>false</default>
+    </key>
+    <key name="amount" type="s">
+      <default>"1"</default>
+    </key>
+    <key name="input-currency" type="s">
+      <default>"USD"</default>
+    </key>
+    <key name="output-currency" type="s">
+      <default>"BRL"</default>
+    </key>
+  </schema>
+</schemalist>
